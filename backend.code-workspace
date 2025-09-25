@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "backend",
+			"path": "."
+		},
+		{
+			"name": "serverless-url-shortener",
+			"path": "../serverless-url-shortener"
+		}
+	],
+	"settings": {}
+}
